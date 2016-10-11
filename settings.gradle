@@ -1,4 +1,4 @@
-include ':stetho'
+include ':stetho', ':stetho-httpclient'
 include ':stetho-urlconnection'
 include ':stetho-okhttp'
 include ':stetho-okhttp3'
